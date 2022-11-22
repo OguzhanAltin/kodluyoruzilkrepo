@@ -6,4 +6,4 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Egitiminde olusturdugumu
 
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
-> asdasdasdasdas
+    > asdasdasdasdas
