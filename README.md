@@ -6,7 +6,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
-![proje](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 # **Installation**
 
@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degisti
 
 # **Licence**
 
-[MIT](https://en.wikipedia.org/wiki/MIT_License)
+[MIT](https://choosealicense.com/licenses/mit/)
